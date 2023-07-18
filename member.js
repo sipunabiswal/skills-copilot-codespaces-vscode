@@ -9,4 +9,4 @@ function skillmember(){
             member: '='
         }
     };
-}
+};
